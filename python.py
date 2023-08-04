@@ -4,3 +4,6 @@ y=int(input("enter a number"))
 
 #normal division
 print(x/y)
+
+#floor division
+print(x//y)
