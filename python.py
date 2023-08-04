@@ -7,3 +7,6 @@ print(x/y)
 
 #floor division
 print(x//y)
+
+#addtion of two number
+print(x+y)
